@@ -76,12 +76,12 @@ Error generating stack: `+a.message+`
                       transition\r
                       hover:bg-blue-500/20 hover:-translate-y-0.5\r
                       hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]\r
-                    `,children:v},_))}),x.jsx("div",{className:"flex justify-between items-center",children:x.jsx("a",{href:"#",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),x.jsxs("div",{className:`\r
+                    `,children:v},_))}),x.jsx("div",{className:"flex justify-between items-center",children:x.jsx("a",{href:"https://to-do-app-8vua.vercel.app/",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),x.jsxs("div",{className:`\r
               glass p-6 rounded-xl border border-white/10 \r
               hover:-translate-y-1 hover:border-blue-500/30\r
               hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]\r
               transition-all\r
-            `,children:[x.jsx("h3",{className:"text-xl font-bold mb-2",children:"E-Commerce Web App"}),x.jsx("p",{className:"text-gray-400 mb-4",children:"Full-stack e-commerce with modern UI, secure payment integration, and customizable product inventory."}),x.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Next.js","TypeScript","Stripe","PostgreSQL"].map(v=>x.jsx("span",{className:`\r
+            `,children:[x.jsx("h3",{className:"text-xl font-bold mb-2",children:"TODoApp"}),x.jsx("p",{className:"text-gray-400 mb-4",children:"Javascript kodlarıyla yazılmış yapılacak işler için yazılmış bir uygulama"}),x.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Next.js","TypeScript","Stripe","PostgreSQL"].map(v=>x.jsx("span",{className:`\r
                       bg-blue-500/10 text-blue-500 py-1 px-3 \r
                       rounded-full text-sm\r
                       transition\r
